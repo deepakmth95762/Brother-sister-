@@ -1,0 +1,8 @@
+{
+  "name": "Brother & Sister",
+  "description": "A secure, private messaging app designed exclusively for siblings to share messages and photos in a family-friendly space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
